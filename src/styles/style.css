@@ -1,6 +1,14 @@
+* {
+margin: 0;
+padding: 0;
+}
+
 body{
 	text-align: center;
 	background-image: url('https://wallpaperaccess.com/full/637106.jpg');
 }
 
-/*The code helps customise the code*/
+.bricks {
+    width: 70%;
+
+}
